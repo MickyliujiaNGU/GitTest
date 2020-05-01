@@ -7,5 +7,6 @@ public class GitFirstTry {
         System.out.println("hello world");
         System.out.println("programmer 2 user");
         System.out.println("programmer 2 user commit 2");
+        System.out.println("programmer 1 commit second");
     }
 }
