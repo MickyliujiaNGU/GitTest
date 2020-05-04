@@ -11,5 +11,6 @@ public class GitFirstTry {
         System.out.println("programmer 2 master commit 3");
         System.out.println("programmer 1 commit third");
         System.out.println(" look for change");
+        System.out.println("programme2 hello fetch");
     }
 }
