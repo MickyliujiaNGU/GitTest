@@ -13,5 +13,6 @@ public class GitFirstTry {
         System.out.println(" look for change");
         System.out.println("programme2 hello fetch");
         System.out.println("programmer2 hello fetch 2");
+        System.out.println("programmer2 hello pull 1");
     }
 }
