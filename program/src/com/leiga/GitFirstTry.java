@@ -9,5 +9,6 @@ public class GitFirstTry {
         System.out.println("programmer 2 user commit 2");
         System.out.println("programmer 1 commit second");
         System.out.println("programmer 1 commit third");
+        System.out.println(" look for change");
     }
 }
