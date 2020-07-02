@@ -5,5 +5,6 @@ public class TestStringFormat {
     main(String[] args) {
         System.out.println(String.format("预期短信[%s]","15"));
         System.out.println("master rebase commit");
+        System.out.println("master rebase commit2");
     }
 }
