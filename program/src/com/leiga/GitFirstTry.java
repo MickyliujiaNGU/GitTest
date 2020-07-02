@@ -1,5 +1,7 @@
 package com.leiga;
 
+import java.util.HashMap;
+
 public class GitFirstTry {
     public static void main(String[] args) {
         System.out.println("hello  world");
@@ -17,6 +19,8 @@ public class GitFirstTry {
         System.out.println("programme1 hello fetch");
         System.out.println("programmer2");
         String s;
-
+        HashMap<String, String> map = new HashMap<>();
+        String put = map.put("key", "sss");
+        System.out.println(map.get("aaaa"));
     }
 }
