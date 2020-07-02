@@ -8,7 +8,7 @@ public class GitFirstTry {
         System.out.println("programmer 2 user");
         System.out.println("programmer 2 user commit 2");
         System.out.println("programmer 1 commit second");
-        System.out.println("programmer 2 mast;er commit 3");
+        System.out.println("programmer 2 master commit 3");
         System.out.println("programmer 1 commit third");
         System.out.println(" look for change");
         System.out.println("programme2 hello fetch");
@@ -17,6 +17,5 @@ public class GitFirstTry {
         System.out.println("programme1 hello fetch");
         String s;
 
-        System.out.println("programmer2 hello pull 1");
     }
 }
