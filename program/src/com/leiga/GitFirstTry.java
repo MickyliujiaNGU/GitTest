@@ -20,6 +20,7 @@ public class GitFirstTry {
         System.out.println("programmer2");
         System.out.println("make conflict");
         String s;
+        System.out.println("yes I'know");
         HashMap<String, String> map = new HashMap<>();
         String put = map.put("key", "sss");
         System.out.println(map.get("aaaa"));
