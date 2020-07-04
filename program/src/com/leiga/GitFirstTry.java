@@ -17,6 +17,7 @@ public class GitFirstTry {
         System.out.println("programmer2 hello fetch 2");
         System.out.println("programmer2 hello pull 1");
         System.out.println("programme1 hello fetch");
+        System.out.println("something is impossible");
         System.out.println("programmer2");
         System.out.println("make conflict");
         String s;
