@@ -11,6 +11,10 @@ public class TestConsist {
 
     public static final String test_String = "hello world";
     public static final int CONST_NUM = 321;
-    public static final Lock lock=new ReentrantLock();
-    public static final Random random=new Random(47);
+    public static final Lock lock = new ReentrantLock();
+    public static final Random random = new Random(47);
+
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+    }
 }
